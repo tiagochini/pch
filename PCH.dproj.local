@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899-12-30 00:00:00.000.859,=D:\Projetos\PCH\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.988,D:\Projetos\PCH\Unit1.pas=D:\Projetos\PCH\Class\uClassLogs.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.147,=D:\Projetos\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.447,=D:\Projetos\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.960,=D:\Projetos\PCH\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.168,D:\Projetos\PCH\Unit1.pas=D:\Projetos\PCH\uDtmPrincipal.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.269,=D:\Projetos\PCH\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.762,D:\Projetos\PCH\Unit1.pas=D:\Projetos\PCH\WS\uProducao.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.440,=D:\Projetos\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.846,=D:\Projetos\PCH\inserirMedicoes.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.183,=D:\Projetos\PCH\inserirMedicoes.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.369,D:\Projetos\PCH\inserirMedicoes.pas=D:\Projetos\PCH\WS\inserirMedicoesProducao.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.475,D:\Projetos\PCH\inserirMedicoes.pas=D:\Projetos\PCH\WS\inserirMedicoes.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.242,D:\Projetos\Unit1.pas=D:\Projetos\PCH\Form\uFrmPrincipal.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.490,D:\Projetos\PCH\WS\uTranmicao.pas=</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.849,D:\Projetos\PCH\Form\uFrmImportFile.pas=D:\Projetos\PCH\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.388,D:\Projetos\Project1.dproj=D:\Projetos\PCH\PCH.dproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.849,D:\Projetos\PCH\Form\uFrmImportFile.dfm=D:\Projetos\PCH\Unit1.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.753,D:\Projetos\PCH\Form\uFrmConfig.dfm=D:\Projetos\PCH\Unit1.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.753,D:\Projetos\PCH\Form\uFrmConfig.pas=D:\Projetos\PCH\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.839,=D:\Projetos\PCH\WS\uTransmicao.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.242,D:\Projetos\Unit1.dfm=D:\Projetos\PCH\Form\uFrmPrincipal.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.034,D:\Projetos\PCH\WS\inserirMedicoes.pas=D:\Projetos\PCH\WS\inserirMedicoesHomologacao.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.168,D:\Projetos\PCH\Unit1.dfm=D:\Projetos\PCH\uDtmPrincipal.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.496,D:\Projetos\PCH\Unit1.dfm=D:\Projetos\PCH\uDtmConnection.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.916,=D:\Projetos\PCH\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.071,D:\Projetos\PCH\Unit1.pas=D:\Projetos\PCH\WS\uTranmicao.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.496,D:\Projetos\PCH\Unit1.pas=D:\Projetos\PCH\uDtmConnection.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.256,D:\Projetos\PCH\Unit1.pas=D:\Projetos\PCH\Class\uClassMedidas.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.116,=D:\Projetos\PCH\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.246,=D:\Projetos\PCH\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.706,=D:\Projetos\PCH\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.410,=D:\Projetos\PCH\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.897,=D:\Projetos\PCH\Unit1.pas</Transaction>
+    <Transaction>2025-04-28 09:44:27.041,=D:\Projetos\PCH\WS\uHomologacao.pas</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="Class"/>
+    <File Path="Class\uClassMedidas.pas"/>
+    <File Path="Class\uClassLogs.pas"/>
+    <File Path="Form"/>
+    <File Path="Form\uFrmConfig.pas"/>
+    <File Path="Form\uFrmConfig.dfm"/>
+    <File Path="Form\uFrmImportFile.pas"/>
+    <File Path="Form\uFrmImportFile.dfm"/>
+    <File Path="Form\uFrmPrincipal.pas"/>
+    <File Path="Form\uFrmPrincipal.dfm"/>
+    <File Path="WS"/>
+    <File Path="WS\inserirMedicoesHomologacao.pas"/>
+    <File Path="WS\inserirMedicoesProducao.pas"/>
+    <File Path="WS\uTransmicao.pas"/>
+    <File Path="WS\uProducao.pas"/>
+    <File Path="WS\uHomologacao.pas"/>
+    <File Path="uDtmConnection.pas"/>
+    <File Path="uDtmConnection.dfm"/>
+    <File Path="uDtmPrincipal.pas"/>
+    <File Path="uDtmPrincipal.dfm"/>
+  </ProjectSortOrder>
+</BorlandProject>
